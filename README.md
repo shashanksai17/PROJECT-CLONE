@@ -1,1 +1,238 @@
-# PROJECT-CLONE
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet"  href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <div class="navbar">
+        <div class="nav-logo bb">
+            <div class="logo"></div>
+            </div>
+            <div class="NAV-address bb">
+                <p class="fi">Deliver to</p>
+                <div class="icon">
+                    <i class="fa-solid fa-location-dot"></i>
+                    <p class="se">India</p>
+                </div>
+
+            </div>
+            <div class="ser bb">
+                <select class="ser-select">
+                    <option >All</option>
+
+                </select>
+                <input placeholder="Search Amazon.in"  class="ser-input">
+                <div class="ser-icon">
+                    <i class="fa-solid fa-magnifying-glass"></i>
+                </div>
+            </div>
+            <div class="lan bb">
+                <img class ="vin" src="fflag.webp" alt="" >                <select >
+                    <option >EN</option>
+
+                </select>
+
+            </div>
+            <div class="sigin bb">
+                <p><span>Hello,Sigin</span></p>
+                <p class="nav-second">Accounts & Lists</p>
+            </div>
+            <DIV class="RETURNS bb">
+                <p >
+                    <span>Returns</span></p>
+                <p class="nav-second">& Orders</p>
+            </DIV>
+            <div class="cart bb">
+                <div class="i"><i class="fa-solid fa-cart-shopping"></i></div>
+                <p class="carta">Cart</p>
+            </div>
+
+
+        </div>
+    </div>
+    <div class="panel bb">
+        <div class="panel-all bb">
+            <i class="fa-solid fa-bars" ></i>
+            <p >All</p>
+        </div>
+        <div class="panel-op bb ">
+            <p>Fresh </p>
+            <p>Mx Player </p>
+            <p>Sell </p>
+            <p>Best Seller </p>
+            <p>Today's Deals </p>
+            <p>Mobiles </p>
+            <p>Customer Service </p>
+            <p> Electronics </p>
+        </div>
+        <div class="panel-deals bb">
+            Shop Deals in Electronics
+        </div>
+    </div>
+</header>    
+<div class="hero-section">
+    <div class="hero-msg">Your on amazon.com.You can also shop on Amazon India for millions of products with fast delivery
+        <a href="/">    click here to go to amazon.in</a>
+    </div>
+
+</div>
+<div class="shop-section">
+    <div class=" box">
+        <div class="box-content">
+            <h2>Health & Personal Care</h2>
+        <div class="box-img" style="background-image:url('box1_image.jpg') "></div>
+        <p>See More</p>
+        </div>
+            </div>
+    <div class="box ">
+        <div class="box-content">
+            <h2>Essentails</h2>
+        <div class="box-img" style="background-image:url('box2_image.jpg') "></div>
+        <p>See More</p>
+        </div>
+        
+    </div>
+    <div class=" box">
+        <div class="box-content">
+            <h2>Fashion</h2>
+        <div class="box-img" style="background-image:url('box8_image.jpg') "></div>
+        <p>See More</p>
+        </div>
+        
+    </div>
+    <div class=" box">
+        <div class="box-content">
+            <h2>Furniture</h2>
+        <div class="box-img" style="background-image:url('box3_image.jpg') "></div>
+        <p>See More</p>
+        </div>
+        
+    </div>
+    <div class=" box">
+        <div class="box-content">
+            <h2>Mobiles</h2>
+        <div class="box-img" style="background-image:url('box4_image.jpg') "></div>
+        <p>See More</p>
+        </div>
+            </div>
+    <div class="box ">
+        <div class="box-content">
+            <h2>Beauty Picks </h2>
+        <div class="box-img" style="background-image:url('box5_image.jpg') "></div>
+        <p>See More</p>
+        </div>
+        
+    </div>
+    <div class=" box">
+        <div class="box-content">
+            <h2>Pets Care</h2>
+        <div class="box-img" style="background-image:url('box6_image.jpg') "></div>
+        <p>See More</p>
+        </div>
+        
+    </div>
+    <div class=" box">
+        <div class="box-content">
+            <h2>Kids</h2>
+        <div class="box-img" style="background-image:url('box7_image.jpg') "></div>
+        <p>See More</p>
+        </div>
+        
+
+</div>
+</div>
+<footer>
+    <footer-panel1>
+        Back to top
+    </footer-panel1>
+    <footer-panel2>
+        <ul>
+<p>Get to Know Us</p>
+<a >  About Amazon</a> 
+<a >Careers
+</a>
+<a >Press Releases
+</a>
+<a >Amazon Science
+</a>
+        </ul>
+        <ul>
+        <p>Make Money with Us</p>
+<a >Sell on Amazon</a>
+<a >Sell under Amazon Accelerator</a>
+<a >Protect and Build Your Brand</a>
+<a >Amazon Global Selling</a>
+<a >Supply to Amazon</a>
+<a >Become an Affiliate</a>
+<a >Fulfilment by Amazon</a>
+<a >Advertise Your Products</a>
+</ul>
+            <ul>
+                        <p>Get to Know Us</p>
+                        <a >  About Amazon</a> 
+                        <a >Careers
+                        </a>
+                        <a >Amazon Pay on Merchants</a>
+<a >Let Us Help You</a>
+<a >Your Account</a>
+<a >Amazon App Download</a>
+
+                        <a >Press Releases
+                        </a>
+                        <a >Amazon Science
+                        </a>
+                                </ul>
+        
+                                <ul>
+                                    <p>Get to Know Us</p>
+                                    <a >  About Amazon</a> 
+                                    <a >Careers
+                                    </a>
+                                    <a>Returns Centre</a>
+<a >Recalls and Product Safety Alerts</a>
+<a>100% Purchase Protection</a>
+
+                                    <a >Press Releases
+                                    </a>
+                                    <a >Amazon Science
+                                    </a>
+                                            </ul>
+                                            <ul>
+                                                <p>Get to Know Us</p>
+                                                <a >  About Amazon</a> 
+                                                <a >Careers
+                                                </a>
+                                                <a >Press Releases
+                                                </a>
+                                                <a >Amazon Science
+                                                </a>
+                                                        </ul>
+                                                                                                    
+
+    </footer-panel2>
+<div class="foot-panel3">
+    <div class="logo">
+    </div>
+</div>
+        <div class="foot-panel4">
+            <div class="pages">
+
+                <a href="https://www.example.com/conditions">Conditions of Use & Sale</a>
+                <a href="https://www.example.com/privacy">Privacy Notice</a>
+                <a href="https://www.example.com/ads">Interest-Based Ads</a>
+                            </div>
+        </div>
+        <div class="copy">
+            © 1996-2025, Amazon.com, Inc. or its affiliates
+
+        </div>
+</footer>
+
+</body>
+</html>
